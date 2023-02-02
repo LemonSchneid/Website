@@ -1,3 +1,3 @@
-# Website
+# CV
 
-This is my personal website i made for a python course project. Might use it for a portfolio down the line. 
+This is my personal CV i made for a python course project. Might use it for an actual CV down the line. 
